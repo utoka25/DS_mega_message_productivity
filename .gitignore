@@ -1,6 +1,8 @@
 **/__pycache__/
 **/env/
+**/.idea/
 
 **/.ipynb_checkpoints/
+
 
 git.sh
